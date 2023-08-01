@@ -12,7 +12,24 @@ I am create a issue tracker application built using Node.js and EJS ,Mongodb. It
 # Features
 ---------
 Neat UI with a home page showing a list of projects.
+
 Ability to create a new project with name, description, and author.
+
 Project detail page to view bugs related to a specific project.
+
 Filter issues by multiple labels, author, and search by title and description.
+
 Create new issues for a project with a title, description, labels, and author.
+
+# Host Link
+https://issue-tracker-app-mfte.onrender.com/
+
+# Repository Link
+https://github.com/shyam728/issue_tracker
+
+#Install the dependencies
+npm i 
+
+
+# Start the application
+npm start
