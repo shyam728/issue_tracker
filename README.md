@@ -7,12 +7,25 @@
 Issue Tracker is a web application built using Node.js, EJS, and MongoDB. It allows users to effectively track issues and bugs for various projects. The application provides a user-friendly interface to create projects, view project details, filter issues, and create new issues.
 
 ## Screenshots
-![Home Page](https://raw.githubusercontent.com/shyam728/issue_tracker/main/assets/home_page.png)
-![Project Form](https://raw.githubusercontent.com/shyam728/issue_tracker/main/assets/project_form.png)
-![Project Details](https://raw.githubusercontent.com/shyam728/issue_tracker/main/assets/project_details.png)
-![Issue Form](https://raw.githubusercontent.com/shyam728/issue_tracker/main/assets/issue_form.png)
-![Filter Issues](https://raw.githubusercontent.com/shyam728/issue_tracker/main/assets/filter_issues.png)
-![Show Issue](https://raw.githubusercontent.com/shyam728/issue_tracker/main/assets/show_issue.png)
+
+
+![home page](https://github.com/shyam728/issue_tracker/assets/116745835/448e92bb-febc-47b7-969c-88733bdcd439)
+
+
+![project form](https://github.com/shyam728/issue_tracker/assets/116745835/8e184ab7-8d3a-45f6-832e-30af246a465a)
+
+
+![project Details](https://github.com/shyam728/issue_tracker/assets/116745835/5dad7745-0a53-4dac-a5ae-3b5b592f4c8f)
+
+
+![issue form](https://github.com/shyam728/issue_tracker/assets/116745835/69efba55-28c1-40ed-a4c3-f20b3067c418)
+
+
+![filter show](https://github.com/shyam728/issue_tracker/assets/116745835/56f778af-f708-4d3b-a218-be0cab5e0093)
+
+![show issue](https://github.com/shyam728/issue_tracker/assets/116745835/c7d279b1-51e0-4854-8e37-aeeeffeae922)
+
+
 
 ## Features
 - Neat UI with a home page showing a list of projects.
