@@ -76,4 +76,4 @@ If you have any questions or suggestions, feel free to contact me at officialaja
 Happy issue tracking!
 ```
 
-This updated README includes corrected image URLs, additional information about the application, and instructions for running it locally. Make sure to replace the image URLs with the correct ones, and customize any other parts as needed.
+
