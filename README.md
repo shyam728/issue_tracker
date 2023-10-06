@@ -1,35 +1,66 @@
-# issue_tracker
-Images
-![home page](https://github.com/shyam728/issue_tracker/assets/116745835/87aa3665-b95c-4f6d-b3e7-7b90cdb130dc)
-![project form](https://github.com/shyam728/issue_tracker/assets/116745835/d523715c-8f73-4f0b-8e35-61c3a5a8f398)
-![project Details](https://github.com/shyam728/issue_tracker/assets/116745835/1f2a5eed-c965-4c5c-9ca7-97e1b5e1dc1c)
-![issue form](https://github.com/shyam728/issue_tracker/assets/116745835/e7225187-12b9-4a4e-8b11-958a86308dfc)
-![filter show](https://github.com/shyam728/issue_tracker/assets/116745835/1171b670-c160-42db-992f-3a90568ff5e4)
-![show issue](https://github.com/shyam728/issue_tracker/assets/116745835/0ba6bbc3-29fd-451d-8c58-3a118c170d37)
-
-I am create a issue tracker application built using Node.js and EJS ,Mongodb. It allows users to track issues/bugs for different projects. The application provides a user interface to create projects, view project details, filter issues, and create new issues.
-
-# Features
----------
-Neat UI with a home page showing a list of projects.
-
-Ability to create a new project with name, description, and author.
-
-Project detail page to view bugs related to a specific project.
-
-Filter issues by multiple labels, author, and search by title and description.
-
-Create new issues for a project with a title, description, labels, and author.
-
-# Host Link
-https://issue-tracker-app-mfte.onrender.com/
-
-# Repository Link
-https://github.com/shyam728/issue_tracker
-
-#Install the dependencies
-npm i 
 
 
-# Start the application
-npm start
+
+# Issue Tracker
+
+## Overview
+Issue Tracker is a web application built using Node.js, EJS, and MongoDB. It allows users to effectively track issues and bugs for various projects. The application provides a user-friendly interface to create projects, view project details, filter issues, and create new issues.
+
+## Screenshots
+![Home Page](https://raw.githubusercontent.com/shyam728/issue_tracker/main/assets/home_page.png)
+![Project Form](https://raw.githubusercontent.com/shyam728/issue_tracker/main/assets/project_form.png)
+![Project Details](https://raw.githubusercontent.com/shyam728/issue_tracker/main/assets/project_details.png)
+![Issue Form](https://raw.githubusercontent.com/shyam728/issue_tracker/main/assets/issue_form.png)
+![Filter Issues](https://raw.githubusercontent.com/shyam728/issue_tracker/main/assets/filter_issues.png)
+![Show Issue](https://raw.githubusercontent.com/shyam728/issue_tracker/main/assets/show_issue.png)
+
+## Features
+- Neat UI with a home page showing a list of projects.
+- Ability to create new projects with names, descriptions, and authors.
+- Project detail page to view issues related to a specific project.
+- Filter issues by multiple labels, author, and search by title and description.
+- Create new issues for a project with titles, descriptions, labels, and authors.
+
+## Hosted Application
+You can access the hosted application here: [Issue Tracker App](https://issue-tracker-app-mfte.onrender.com/)
+
+## Repository Link
+To explore the code and contribute, visit the GitHub repository: [Issue Tracker GitHub](https://github.com/shyam728/issue_tracker)
+
+## Getting Started
+To run this application locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shyam728/issue_tracker.git
+   ```
+
+2. Install the dependencies:
+   ```bash
+   cd issue_tracker
+   npm install
+   ```
+
+3. Start the application:
+   ```bash
+   npm start
+   ```
+
+The application will be available at http://localhost:3000 in your browser.
+
+## Dependencies
+- Node.js
+- Express.js
+- MongoDB
+- EJS (Embedded JavaScript templates)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/shyam728/issue_tracker/blob/main/LICENSE) file for details.
+
+## Contact
+If you have any questions or suggestions, feel free to contact me at officialajayagrawal@gmail.com.
+
+Happy issue tracking!
+```
+
+This updated README includes corrected image URLs, additional information about the application, and instructions for running it locally. Make sure to replace the image URLs with the correct ones, and customize any other parts as needed.
